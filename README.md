@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* Hello there! I'm a Junior DevOps Engineer, with a passion for building and maintaining scalable and reliable systems. 
+* I am proficient in a variety of technologies including Kubernetes, Docker, AWS, and Terraform.
+* I am always looking for new challenges and opportunities to learn and grow. I am confident that I have the skills and experience to be a valuable asset to any team.
+* Hope you enjoy browsing through the projects.

@@ -1,24 +1,47 @@
-### Hi there 👋
+<h1 align="center">Welcom ! <img src="https://github.com/Slvr-one/Slvr-one/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<!--
-**Slvr-one/Slvr-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Dvir.<br>
+        A DevOps Engineer, with a passion for building and maintaining scalable, reliable and robust systems.<br>
+        I am proficient in a variety of technologies including Kubernetes, Docker, AWS, and Terraform.<br>
+        I am always looking for new challenges and opportunities to learn and grow. I am confident that I have the skills and experience to be a valuable asset to any team.<br>
+        Hope you enjoy browsing through.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/dvir-gross-929252224/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <!-- <a href="https://www.kaggle.com/Slvr-one">
+        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    </a>
+    <a href="https://leetcode.com/Slvr-one">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a> -->
+</p>
 
-Here are some ideas to get you started:
+<details>
+<p align="center">
+  <a href="https://github.com/Slvr-one">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slvr-one&theme=transparent" />
+  </a>
+  <a href="https://github.com/Slvr-one">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slvr-one&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Slvr-one">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Slvr-one&theme=transparent" />
+  </a>
+  <a href="https://github.com/Slvr-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slvr-one&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-* Hello there! I'm a DevOps Engineer, with a passion for building and maintaining scalable, reliable and robust systems. 
-* I am proficient in a variety of technologies including Kubernetes, Docker, AWS, and Terraform.
-* I am always looking for new challenges and opportunities to learn and grow. I am confident that I have the skills and experience to be a valuable asset to any team.
-* Hope you enjoy browsing through the projects.
+<p align="center">
+  <a href="https://github.com/Slvr-one">
+    <img src="https://komarev.com/ghpvc/?username=Slvr-one&color=blue&style=flat)" />
+  </a>
+</p>
 
 ## Redirection:
 > In this repo, you will find several markdown files: 

@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/Slvr-one">
-    <img src="https://komarev.com/ghpvc/?username=Slvr-one&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=Slvr-one&color=brightgreen&style=for-the-badge)" />
   </a>
 </p>
 

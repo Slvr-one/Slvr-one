@@ -7,7 +7,7 @@ Here are some:
 - Containerization: Docker; compose, Kubernetes
 - CI/CD: Jenkins, Argo, Github Workflows
 - Infrastructure as Code: Terraform, Ansible, CloudFormation
-- Programming Languages: Bash, Golang, Python
+<!-- - Programming Languages: Bash, Golang, Python -->
 - Version Control: Git
 
 ### Languages
@@ -16,7 +16,7 @@ Here are some:
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Slvr-one)
 [Golang](https://github.com/Slvr-one)
 <!-- [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Slvr-one) -->
-
+<!-- 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Slvr-one)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Slvr-one)
@@ -31,9 +31,9 @@ Here are some:
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Slvr-one)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Slvr-one)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Slvr-one)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/Slvr-one)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/Slvr-one) -->
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Slvr-one)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Slvr-one)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/Slvr-one)
+<!-- [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/Slvr-one) -->

@@ -1,2 +1,12 @@
+## I'de like to think i am:
 
-a strong communicator
+* Self and fast learner 
+* A strong communicator
+* A team player
+* A problem solver
+* Organized
+
+
+
+
+

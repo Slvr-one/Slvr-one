@@ -4,9 +4,11 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Dvir.<br>
-        A DevOps Engineer, with a passion for building and maintaining scalable, reliable and robust systems.<br>
+        A DevOps Engineer, with a passion for building and maintaining scalable,<br>
+        reliable and robust systems.<br>
         I am proficient in a variety of technologies including Kubernetes, Docker, AWS, and Terraform.<br>
-        I am always looking for new challenges and opportunities to learn and grow. I am confident that I have the skills and experience to be a valuable asset to any team.<br>
+        I am always looking for new challenges and opportunities to learn and grow.<br> 
+        Confident that I have the skills and experience to be a valuable asset to any team.<br>
         Hope you enjoy browsing through.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/dvir-gross-929252224/">

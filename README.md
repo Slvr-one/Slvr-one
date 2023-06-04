@@ -50,4 +50,5 @@
 2. [Skills.md](./Skills.md) - A comprehensive list of my technical skills and expertise.
 <!-- 2. [Experience.md](./Experience.md) - My professional experiences, internships, and projects I've worked on. -->
 3. [Projects.md](./Projects.md) - A showcase of some of the cool projects I've built and contributed to.
-4. [Tech.md](./Tech.md) - Outlines my tech stack
+4. [Tech.md](./Tech.md) - Outlines my tech stack.
+5. [Projects.md](./Projects.md) - Outlines my public projects on github.

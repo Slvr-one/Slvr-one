@@ -1,4 +1,4 @@
-## My Tech Stack
+## Tech Stack
 
 As a DevOps engineer, I'm proficient in a wide range of technologies, tools, and frameworks.
 Here are some:

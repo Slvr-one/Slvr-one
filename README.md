@@ -19,6 +19,10 @@
     <a href="https://leetcode.com/Slvr-one">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a> -->
+    
+    <a href="https://medium.com/@dvirgross2000">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="Medium">
+    </a> -->
 </p>
 
 <details>

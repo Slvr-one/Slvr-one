@@ -16,6 +16,9 @@
     <a href="https://medium.com/@dvirgross2000">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
     </a>
+    <a href="https://hashnode.com/@dviross)">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Medium">
+    </a>
     <!-- <a href="https://www.kaggle.com/Slvr-one">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>

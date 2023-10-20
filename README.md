@@ -1,14 +1,14 @@
 <h1 align="center">Hi ! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome!</b><br><br>
     <i>
         I'm Dvir, A DevOps Engineer.<br> 
         With a passion for building and maintaining scalable, reliable and robust systems.<br>
         I am proficient in a variety of technologies including Kubernetes, Docker, AWS, and Terraform.<br>
         I am always looking for new challenges and opportunities to learn and grow.<br> 
         Confident that I have the skills and experience to be a valuable asset to any team.<br>
-        Hope you enjoy browsing through.<br>
+        Enjoy browsing through.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/dvir-gross-929252224/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
